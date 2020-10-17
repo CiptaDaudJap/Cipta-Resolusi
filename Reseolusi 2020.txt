@@ -1,0 +1,5 @@
+Puji TUhan di tahun ini bisa di mulai belajar Web dan ketemu Jalur nya yg sesuai dan sdh di mulai
+semoga di akhir tahun ini sdh bisa di mulai penulisan nya .
+Terima kasih juga utk Yudhi yg membantu jika ada kesulitan .
+yg sdh di pelajari :  php dasar , CSS dasar , OOP PHP  , MVC  dan sekarang masuk di Composer dan Git dan HIT hub dulu 
+next baru ke codeigniter 4 dan Login system setelah itu baru mulai tulis sambil terus belajar .
