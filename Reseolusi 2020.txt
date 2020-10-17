@@ -4,3 +4,5 @@ Terima kasih juga utk Yudhi yg membantu jika ada kesulitan .
 yg sdh di pelajari :  php dasar , CSS dasar , OOP PHP  , MVC  dan sekarang masuk di Composer dan Git dan HIT hub dulu 
 next baru ke codeigniter 4 dan Login system setelah itu baru mulai tulis sambil terus belajar .
 Kendala ada , tapi harus tetap tekun dan berdoa utk maju 
+Cita cita setelah lancar mau buatkan aplikasi buat CMC Jakarta utk mengelola Tamu atau apapun yg di butuhkan dlm mengelola data base agar lebi mudah di lakukan
+dan membantu May buat app utk Property nya yg tertunda di waktu yg lalu , Tuhan pasti akan membantu .
